@@ -1,6 +1,5 @@
 # React TODO App
 
-![alt text](todo-list-app.gif)
 
 This is a simple To-Do List app built using React. It allows users to perform CRUD operations.
 
